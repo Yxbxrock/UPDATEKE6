@@ -64,8 +64,8 @@ global.owner = [
   ['6281807254833', 'IBNU OFFICIAL 🅥⁩', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods =  ['6281807254833'] // Want some help?
-global.prems =  ['6281807254833']  // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods =  ['6281807254833','6282365089294'] // Want some help?
+global.prems =  ['6281807254833','6282365089294']  // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
