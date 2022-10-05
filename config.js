@@ -48,7 +48,7 @@ global.psaweria = '081807254833'
 /*============== NOMOR ==============*/
 global.nomorbot = '62818072548331'
 global.nomorown = '6281807254833'
-global.namebot = 'IBNU-MD'
+global.namebot = 'Xyze Bot'
 global.nameown = 'IBNU OFFICIAL 🅥⁩ '
 
 /*============== APIKEY SIMPEL ==============*/
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62818072548331', 'IBNU-MD', true],
-  ['62818072548331', 'IBNU-MD', true],
+  ['6282365089294', 'Owner Bot', true],
+  ['6282365089294', 'Owner Bot', true],
   ['6281807254833', 'IBNU OFFICIAL 🅥⁩ ', true],
   ['6281807254833', 'IBNU OFFICIAL 🅥⁩', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
