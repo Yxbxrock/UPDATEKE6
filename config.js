@@ -60,8 +60,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 global.owner = [
   ['6282365089294', 'Owner Bot', true],
   ['6282365089294', 'Owner Bot', true],
-  ['6281807254833', 'IBNU OFFICIAL 🅥⁩ ', true],
-  ['6281807254833', 'IBNU OFFICIAL 🅥⁩', true] //Ganti jd nomormu sama Namamu
+  ['6289630810886', 'Owner Bot2', true],
+  ['6289630810886', 'Owner Bot2', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods =  ['6281807254833','6282365089294'] // Want some help?
