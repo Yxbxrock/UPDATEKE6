@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'IBNU OFFICIAL 🅥⁩'
-global.stickauth = `IBNU OFFICIAL 🅥⁩ `
+global.stickpack = 'Created By'
+global.stickauth = 'XYZE BOT'
 
 global.multiplier = 38 // The higher, The harder levelup
 
