@@ -115,8 +115,8 @@ global.wm3 = '⫹⫺ XYZE BOT⁩  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By IBNU OFFICIAL 🅥⁩`
+global.packname = 'Created By'
 global.author = 'XYZE BOT'
-
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg' //Main Thumbnail
