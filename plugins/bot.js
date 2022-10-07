@@ -8,7 +8,7 @@ conn.sendFile(m.chat, whmods, '', '', m, true)
 handler.customPrefix = /^(bot|robot|p|hallo|hello|tes|tes123|tes1|tes12|woy)$/i
 handler.command = new RegExp
 
-handler.limit = true
+handler.limit = false
 handler.mods = false 
 handler.premium = false
 handler.group = false
