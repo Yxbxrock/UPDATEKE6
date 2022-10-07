@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '     「 IBNU OFFICIAL 🅥⁩  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ IBNU OFFICIAL 🅥⁩  ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ IBNU OFFICIAL 🅥⁩  '
+global.wm = 'XYZE BOT' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ XYZE BOT  ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ XYZE BOT⁩  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By IBNU OFFICIAL 🅥⁩`
-global.author = '   「 IBNU OFFICIAL 🅥⁩  あ」'
+global.author = 'XYZE BOT'
 
 
 /*============== LOGO ==============*/
