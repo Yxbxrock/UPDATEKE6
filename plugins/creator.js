@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : NAMA ANDA
+${htjava} *💌 Nama* : Owner Bot
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 19
-${htjava} *🧮 Kelas* : SUDAH TAMAT
-${htjava} *🧩 Hobby* : TURU, MANGAN, HEALING
+${htjava} *🎨 Umur* : 18
+${htjava} *🧮 Kelas* : Masih SMA banh
+${htjava} *🧩 Hobby* : TURU, MAKAN, NGEGAME
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indonesia, Jawa Tengah
-${htjava} *❤️ Waifu* : -
+${htjava} *🗺️ Tinggal* : Indonesia, Sumatera Utara 
+${htjava} *❤️ Waifu* : Karyl Chan😺
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
