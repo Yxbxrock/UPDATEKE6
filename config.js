@@ -30,8 +30,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ibnu_ramadhani.1'
-global.sgh = 'https://github.com/bisnissaya12' //github
+global.sig = 'https://instagram.com/yxbxrock'
+global.sgh = 'https://github.com/Yxbxrock' //github
 global.sgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //group whatsapp
 global.sdc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //discord
 global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel
@@ -46,10 +46,10 @@ global.ppulsa2 = '081807254833' // kalau ada kartu lain isi aja
 global.psaweria = '081807254833'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62818072548331'
-global.nomorown = '6281807254833'
+global.nomorbot = '6289630810886'
+global.nomorown = '6282365089294'
 global.namebot = 'Xyze Bot'
-global.nameown = 'IBNU OFFICIAL 🅥⁩ '
+global.nameown = 'frmndaa'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
