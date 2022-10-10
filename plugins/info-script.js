@@ -2,21 +2,21 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `*https://instagram.com/sampun_penak*
+let str = `*https://instagram.com/yxbxrock*
 
 Pengen mentahan nya ?
 Nih ada santai bro....
-https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn
+https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG
 
-https://github.com/bisnissaya12
-wa.me/6281807254833`
+https://github.com/Yxbxrock
+wa.me/6282365089294`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Thankyou','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://instagram.com/ibnu_ramadhani.1",
+    mediaUrl: "https://instagram.com/yxbxrock",
     mediaType: "VIDEO",
     description: "https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG", 
-    title: 'IBNU OFFICIAL 🅥⁩ MultiDevice',
+    title: 'Xyze Bot-[MD]',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
