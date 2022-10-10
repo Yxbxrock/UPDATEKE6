@@ -119,8 +119,8 @@ global.packname = 'Created By'
 global.author = 'XYZE BOT'
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg'
+global.thumb = 'https://telegra.ph/file/a01443f8a311d77bbdb2c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/500b391de9528b1e4324f.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/74d983dd46e8bac065b48.jpg']
 global.fla = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg'
