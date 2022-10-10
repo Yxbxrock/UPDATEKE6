@@ -37,13 +37,13 @@ global.sdc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //discord
 global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '081807254833' //dana
-global.povo = '081807254833' //ovo
-global.pgopay = '081807254833' //gopay
-global.plinkaja = '081807254833' //link aja
-global.ppulsa = '081807254833' //telkomsel
-global.ppulsa2 = '081807254833' // kalau ada kartu lain isi aja
-global.psaweria = '081807254833'
+global.pdana = '082365089294' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '082365089294' //telkomsel
+global.ppulsa2 = '089630810886' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289630810886'
@@ -114,7 +114,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ XYZE BOT  ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ XYZE BOT⁩  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By IBNU OFFICIAL 🅥⁩`
+global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
 global.packname = 'Created By'
 global.author = 'XYZE BOT'
 
