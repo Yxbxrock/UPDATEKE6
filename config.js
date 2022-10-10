@@ -122,8 +122,8 @@ global.author = 'XYZE BOT'
 global.thumb = 'https://telegra.ph/file/a01443f8a311d77bbdb2c.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/500b391de9528b1e4324f.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/74d983dd46e8bac065b48.jpg']
-global.fla = 'https://telegra.ph/file/74d983dd46e8bac065b48.jpg'
+global.thumbs = ['https://telegra.ph/file/8dddf5ba30b0a2f1f7531.jpg']
+global.fla = 'https://telegra.ph/file/4141fb2bd55543744cfea.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
