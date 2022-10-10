@@ -699,10 +699,10 @@ export async function participantsUpdate({ id, participants, action }) {
                                 membercount: groupMetadata.participants.length
                             })
     conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'MimimOfc', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://instagram.com/sampun_penak",
+    mediaUrl: "https://instagram.com/yxbxrock",
     mediaType: 2, 
-    description: "https://instagram.com/sampun_penak", 
-    title: 'TheBotz-Official',
+    description: "https://instagram.com/yxbxrock", 
+    title: 'Xyze Bot-[MD]',
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sgc
